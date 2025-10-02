@@ -18,7 +18,7 @@ The system estimates the camera’s extrinsic parameters from a planar object (e
 
 ## 📂 Repository Structure
 ```
-├── Assignment4_AR_PyTorch3D.ipynb   # Main Jupyter/Colab notebook
+├── AR_PyTorch3D.ipynb   # Main Jupyter/Colab notebook
 ├── README.md                        # Project documentation
 ├── example_input.png                # Example input image
 ├── example_ar_output.png            # Example AR output
